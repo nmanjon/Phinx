@@ -1,0 +1,23 @@
+/* Add here all your css styles (customizations) */
+
+.g-bg-primary { background-color: #191919 !important;}
+.g-bg-red { background-color: #E03028 !important}
+.g-bg-red2 {background-color: #CC2F28}
+.g-bg-red3 {background-color: #BB2B24}
+.g-bg-darkgrey {background-color: #4c4c4c}
+
+.tp-parallax-wrap{
+	left:21% !important;
+	min-width:1100px !important;
+}
+
+@media (min-width: 992px)
+{
+.col-lg-4 {
+    -webkit-box-flex: 0;
+    -webkit-flex: 0 0 33.333333%;
+    -ms-flex: 0 0 33.333333%;
+    flex: 18 0 33.333333%;
+    max-width: 58.333333%;
+    margin-top: 2em;
+}}
