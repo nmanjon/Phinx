@@ -21,3 +21,13 @@
     max-width: 58.333333%;
     margin-top: 2em;
 }}
+
+.g-width-170 {
+    width: 240px !important;
+}
+
+@media (min-width: 768px){
+.g-py-20--md {
+    padding-top: 1.12857rem !important;
+    padding-bottom: 1.12857rem !important;
+}}
