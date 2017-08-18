@@ -82,3 +82,8 @@
     background-image: );
   }
 }
+
+.divimage {
+    height: 120%; 
+    background-image: url(img/hero.jpg);
+}
