@@ -63,3 +63,22 @@
                                   supported by Chrome and Opera */
 }
 
+@media (min-width: 400px){
+
+.g-py-200 {
+    padding-top: 11.28571rem !important;
+    padding-bottom: 8.28571rem !important;
+}}
+
+@media (min-width: 400px){
+.g-py-200 {
+    background-image: url("img/iphone_1242x2208.png");
+}}
+
+
+}
+@media (min-width: 400px) and (max-width: 768px) {
+  body {
+    background-image: );
+  }
+}
