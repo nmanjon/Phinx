@@ -1,5 +1,27 @@
 /* Add here all your css styles (customizations) */
 
+@import url('https://fonts.googleapis.com/css?family=Varela+Round');
+
+/*------------------------------------
+  Default Styles
+------------------------------------*/
+html {
+  font-size: 14px; }
+
+body {
+  font-weight: 400;
+  font-size: 1.3rem !important;
+  font-family: "Varela Round", Helvetica, Arial, sans-serif !important;
+  line-height: 1.6;
+  color: #555;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  -moz-font-feature-settings: "liga", "kern";
+  text-rendering: optimizelegibility;
+  background-color: #fff; }
+
+
+
 .img-fluid {
     max-width: 18% !important;
     height: auto;
